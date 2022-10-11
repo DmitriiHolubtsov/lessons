@@ -2,6 +2,7 @@ import './App.css';
 import TaskSeparator from './shared/TaskSeparator';
 import Jsx from './lessons/Jsx';
 import Components from './lessons/Components';
+import Seasons from './lessons/Seasons';
 
 function App() {
   return (
@@ -10,6 +11,8 @@ function App() {
       <Jsx />
       <TaskSeparator taskNumber="2"/>
       <Components />
+      <TaskSeparator taskNumber="3"/>
+      <Seasons />
     </div>
    
   );
