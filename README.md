@@ -68,24 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g id="v2" stroke="none" stroke-width="1" fill="none">
-        <g id="Round-3" transform="translate(-191.000000, -548.000000)" fill="#333333">
-            <path d="M205,552.241162 L205,550 C208.530805,551.544058 211,555.068907 211,559.166962 C211,564.686962 206.52,569.166962 201,569.166962 C195.48,569.166962 191,564.686962 191,559.166962 C191,555.068907 193.469195,551.544058 197,550 L197,552.241162 C194.610859,553.626771 193,556.212896 193,559.166962 C193,563.576962 196.59,567.166962 201,567.166962 C205.41,567.166962 209,563.576962 209,559.166962 C209,556.212896 207.389141,553.626771 205,552.241162 Z" id="Combined-Shape-Copy-4" fill-rule="nonzero"></path>
-            <text id="!" font-family="ProximaNova-Regular, Proxima Nova" font-size="24" font-weight="normal">
-                <tspan x="196.24" y="565">!</tspan>
-            </text>
-        </g>
-    </g>
-</svg>
-
-
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="20" height="20" viewBox="0 0 256 256" xml:space="preserve">
-    <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
-        <path d="M 45 90 C 20.187 90 0 69.813 0 45 C 0 20.187 20.187 0 45 0 c 24.813 0 45 20.187 45 45 C 90 69.813 69.813 90 45 90 z M 45 7 C 24.047 7 7 24.047 7 45 s 17.047 38 38 38 s 38 -17.047 38 -38 S 65.953 7 45 7 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
-        <path d="M 45 52.5 c -1.933 0 -3.5 -1.567 -3.5 -3.5 V 23 c 0 -1.933 1.567 -3.5 3.5 -3.5 c 1.933 0 3.5 1.567 3.5 3.5 v 26 C 48.5 50.933 46.933 52.5 45 52.5 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
-        <path d="M 45 70.5 c -1.933 0 -3.5 -1.567 -3.5 -3.5 v -4.571 c 0 -1.933 1.567 -3.5 3.5 -3.5 c 1.933 0 3.5 1.567 3.5 3.5 V 67 C 48.5 68.933 46.933 70.5 45 70.5 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
-    </g>
-</svg>
