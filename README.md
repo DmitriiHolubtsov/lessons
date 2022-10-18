@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="v2" stroke="none" stroke-width="1" fill="none">
+        <g id="Round-3" transform="translate(-191.000000, -548.000000)" fill="#333333">
+            <path d="M205,552.241162 L205,550 C208.530805,551.544058 211,555.068907 211,559.166962 C211,564.686962 206.52,569.166962 201,569.166962 C195.48,569.166962 191,564.686962 191,559.166962 C191,555.068907 193.469195,551.544058 197,550 L197,552.241162 C194.610859,553.626771 193,556.212896 193,559.166962 C193,563.576962 196.59,567.166962 201,567.166962 C205.41,567.166962 209,563.576962 209,559.166962 C209,556.212896 207.389141,553.626771 205,552.241162 Z" id="Combined-Shape-Copy-4" fill-rule="nonzero"></path>
+            <text id="!" font-family="ProximaNova-Regular, Proxima Nova" font-size="24" font-weight="normal">
+                <tspan x="196.24" y="565">!</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
