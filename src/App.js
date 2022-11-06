@@ -1,6 +1,6 @@
 import './App.css';
 import TaskSeparator from './shared/TaskSeparator';
-import Jsx from './lessons/Jsx';
+import UnderstandJsx from './lessons/UnderstandJsx';
 import Components from './lessons/Components';
 import Seasons from './lessons/Seasons';
 import PicsFilterInput from './lessons/PicsFilterInput';
@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <TaskSeparator taskNumber="1"/>
-      <Jsx />
+      <UnderstandJsx />
       <TaskSeparator taskNumber="2"/>
       <Components />
       <TaskSeparator taskNumber="3"/>

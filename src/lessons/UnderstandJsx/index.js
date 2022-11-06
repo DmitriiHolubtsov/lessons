@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Jsx = props => {
+const UnderstandJsx = props => {
     console.log(props.name);
     return (
         <div className="wrapper">
@@ -14,5 +14,5 @@ const Jsx = props => {
     );
 };
 
-export default Jsx;
+export default UnderstandJsx;
 
