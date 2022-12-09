@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Round-3" transform="translate(-158.000000, -74.000000)" fill-rule="nonzero">
+            <g id="messageWarningLanding" transform="translate(167.000000, 83.000000) scale(1, -1) translate(-167.000000, -83.000000) translate(158.000000, 74.000000)">
+                <path d="M9,18 C4.0374,18 0,13.9626 0,9 C0,4.0374 4.0374,0 9,0 C13.9626,0 18,4.0374 18,9 C18,13.9626 13.9626,18 9,18 Z" id="Shape" fill="#E4E4E4"></path>
+                <path d="M9,10.5 C8.6134,10.5 8.3,10.1866 8.3,9.8 L8.3,4.6 C8.3,4.2134 8.6134,3.9 9,3.9 C9.3866,3.9 9.7,4.2134 9.7,4.6 L9.7,9.8 C9.7,10.1866 9.3866,10.5 9,10.5 Z" id="Path" fill="#8B8A8A"></path>
+                <path d="M9,14.1 C8.6134,14.1 8.3,13.7866 8.3,13.4 L8.3,12.4858 C8.3,12.0992 8.6134,11.7858 9,11.7858 C9.3866,11.7858 9.7,12.0992 9.7,12.4858 L9.7,13.4 C9.7,13.7866 9.3866,14.1 9,14.1 Z" id="Path" fill="#8B8A8A"></path>
+            </g>
+        </g>
+    </g>
+</svg>
