@@ -5,10 +5,10 @@ const UnderstandJsx = props => {
     return (
         <div className="wrapper">
         <textarea
-          readOnly
+          // readOnly
           maxLength={3}
           spellCheck
-          style={{ backgroundColor: 'gray' }}
+          style={{ backgroundColor: 'lightgray', margin: '30px' }}
           />
         </div>
     );

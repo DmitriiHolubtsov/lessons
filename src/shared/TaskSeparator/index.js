@@ -2,7 +2,7 @@ import React from 'react';
 
 const TaskSeparator = props => {
     return (
-        <p>Lesson {props.taskNumber}</p>
+        <p style={{padding: '30px', fontWeight: 'bold'}}>Lesson {props.taskNumber}</p>
     );
 };
 
