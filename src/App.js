@@ -7,6 +7,7 @@ import TaskSeparator from './shared/TaskSeparator';
 // import StateSystem from './lessons/StateSystem';
 // import ApiApp from './lessons/UsingApi';
 import Books from './lessons/HandleForms';
+import { Provider } from './context/books';
 
 
 function App() {
@@ -25,9 +26,10 @@ function App() {
       <TaskSeparator taskNumber="6"/>
       <ApiApp /> */}
       <TaskSeparator taskNumber="7"/>
-      <Books />
+      <Provider>
+        <Books />
+      </Provider>
     </div>
-   
   );
 };
 
