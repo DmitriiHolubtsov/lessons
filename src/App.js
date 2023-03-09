@@ -6,8 +6,8 @@ import TaskSeparator from './shared/TaskSeparator';
 // import PicsFilterInput from './lessons/PicsFilterInput';
 // import StateSystem from './lessons/StateSystem';
 // import ApiApp from './lessons/UsingApi';
-import Books from './lessons/HandleForms';
-import { Provider } from './context/books';
+// import Books from './lessons/HandleFormsSection';
+// import { Provider } from './lessons/HandleFormsSection/context/books';
 
 
 function App() {
@@ -24,11 +24,12 @@ function App() {
       <TaskSeparator taskNumber="5"/>
       <StateSystem /> 
       <TaskSeparator taskNumber="6"/>
-      <ApiApp /> */}
+      <ApiApp /> 
       <TaskSeparator taskNumber="7"/>
       <Provider>
         <Books />
-      </Provider>
+      </Provider> */}
+      <TaskSeparator taskNumber="8"/>
     </div>
   );
 };

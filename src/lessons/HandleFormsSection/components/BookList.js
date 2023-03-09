@@ -1,5 +1,5 @@
 import BookShow from './BookShow';
-import useBooksContext from '../../../hooks/use-books-context';
+import useBooksContext from '../hooks/use-books-context';
 
 const BookList = () => {
     const { books } = useBooksContext();
