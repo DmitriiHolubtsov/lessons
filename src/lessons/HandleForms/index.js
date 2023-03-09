@@ -8,7 +8,7 @@ const Books = () => {
 
     useEffect(() => {
         fetchBooks();
-    }, [fetchBooks]);
+    }, []);
 
     return (
         <div className="app">
