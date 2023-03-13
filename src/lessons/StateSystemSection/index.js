@@ -8,6 +8,21 @@ function getRandomAnimal() {
     return animals[Math.floor(Math.random() * animals.length)]
 }
 
+    // let a = { x: 1, y: 2 };
+    // let b = a;
+    // b.x = 10;
+    // console.log(a.x);
+
+    // let c = {};
+    // let d = {};
+    // console.log(c===d);
+
+    // for(let i=0; i<10; i++) {
+    //  setTimeout(function() {
+    //   console.log(i);
+    //  }, 100);
+    // }
+
 
 
 const StateSystem = () => {

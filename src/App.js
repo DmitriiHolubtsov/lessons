@@ -8,28 +8,30 @@ import TaskSeparator from './shared/TaskSeparator';
 // import ApiApp from './lessons/UsingApi';
 // import Books from './lessons/HandleFormsSection';
 // import { Provider } from './lessons/HandleFormsSection/context/books';
+import NavAndRoutingSection from './lessons/NavAndRoutingSection';
 
 
 function App() {
   return (
     <div>
-      {/* <TaskSeparator taskNumber="1"/>
+      {/* <TaskSeparator taskNumber="1 - Understanding Jsx"/>
       <UnderstandJsx />
-      <TaskSeparator taskNumber="2"/>
+      <TaskSeparator taskNumber="2 - Understanding Components"/>
       <Components />
-      <TaskSeparator taskNumber="3"/>
+      <TaskSeparator taskNumber="3 - Create Seasons App"/>
       <Seasons />
-      <TaskSeparator taskNumber="4"/>
+      <TaskSeparator taskNumber="4 - Pics Filter Input App"/>
       <PicsFilterInput />
-      <TaskSeparator taskNumber="5"/>
+      <TaskSeparator taskNumber="5 - Understanding State System"/>
       <StateSystem /> 
-      <TaskSeparator taskNumber="6"/>
+      <TaskSeparator taskNumber="6 - Understanding Api"/>
       <ApiApp /> 
-      <TaskSeparator taskNumber="7"/>
+      <TaskSeparator taskNumber="7 - Understanding useState, useEffect, useCallback, Fetching"/>
       <Provider>
         <Books />
       </Provider> */}
-      <TaskSeparator taskNumber="8"/>
+      <TaskSeparator taskNumber="8 - Understanding Navigation and Routing Systems"/>
+      <NavAndRoutingSection />
     </div>
   );
 };
