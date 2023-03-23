@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>actionGraphHover</title>
-    <g id="v2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Round-4" transform="translate(-26.000000, -629.000000)" fill="#0FC992" fill-rule="nonzero">
-            <path d="M29,631 L29,641.645 L31.8529396,638.496464 L32.3505718,637.947147 L32.9057195,638.438266 L34.525,639.870279 L37.1090348,635.559432 L37.6240981,634.699943 L38.3035761,635.436367 L40.019,637.295279 L43.0580546,631.774748 L44.372278,632.497809 L40.8321791,638.932235 L40.3301261,639.844758 L39.6238537,639.079294 L37.88,637.189279 L35.3478242,641.416469 L34.8837441,642.190881 L34.2075509,641.592677 L32.466,640.052279 L29,643.879 L29,645 L45,645 L45,647 L27,647 L27,631 L29,631 Z" id="Shape"></path>
-        </g>
-    </g>
-</svg>
