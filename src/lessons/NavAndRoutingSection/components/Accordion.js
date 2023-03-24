@@ -33,7 +33,7 @@ function Accordion({ items }) {
     });
 
     return (
-        <div className='border-x border-t rounded'>{renderedItems}</div>
+        <div className='border-x border-t rounded max-w-sm'>{renderedItems}</div>
     );
 }
 

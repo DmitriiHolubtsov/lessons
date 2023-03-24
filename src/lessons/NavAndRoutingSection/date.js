@@ -16,7 +16,7 @@ export const itemsAccordion = [
     }
 ]
 
-export const optionsDropdown = [
+export const selectColorOptions = [
     { 
         label: 'Green', 
         value: 'green' 
@@ -28,5 +28,20 @@ export const optionsDropdown = [
     { 
         label: 'Yellow', 
         value: 'yellow',
+    }
+]
+
+export const selectSizeOptions = [
+    { 
+        label: 'LG', 
+        value: 'lg' 
+    },
+    { 
+        label: 'MD', 
+        value: 'md'
+    },
+    { 
+        label: 'XS', 
+        value: 'xs',
     }
 ]
