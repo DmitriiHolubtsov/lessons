@@ -45,7 +45,7 @@ function Dropdown({ options, value, onChange, selectLabel }) {
   });
 
   return (
-    <div ref={divEl} className="w-48 relative mt-10 mr-4">
+    <div ref={divEl} className="w-48 relative mr-4">
       <label className="text-lg">{selectLabel}</label>
       <Panel
         className="flex justify-between items-center cursor-pointer mt-1"

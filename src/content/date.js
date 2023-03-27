@@ -44,4 +44,16 @@ export const selectSizeOptions = [
         label: 'XS', 
         value: 'xs',
     }
-]
+];
+
+export const links = [
+    { 
+        label: 'Dropdown', path: '/' 
+    },
+    { 
+        label: 'Accordion', path: '/accordion' 
+    },
+    { 
+        label: 'Buttons', path: '/buttons' 
+    },
+];
