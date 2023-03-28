@@ -1,6 +1,6 @@
 import React from "react";
 import SeasonDisplay from './components/SeasonDisplay';
-import Loader from '../../shared/Loader';
+import Loader from '../../components/Loader';
 
 export default class Seasons extends React.Component {
     state = { let: 0, errorMessage: '' };

@@ -17,7 +17,7 @@ function Sidebar () {
     });
 
     return (
-        <div className='ml-5 sticky top-0 overflow-y-scroll flex flex-col items-start'>
+        <div className='sticky top-0 overflow-y-scroll flex flex-col items-start'>
             {renderedLinks}
         </div>
     )

@@ -56,4 +56,25 @@ export const links = [
     { 
         label: 'Buttons', path: '/buttons' 
     },
+    { 
+        label: 'JSX', path: '/jsx' 
+    },
+    { 
+        label: 'Components', path: '/components' 
+    },
+    { 
+        label: 'Seasons App', path: '/seasons-app' 
+    },
+    { 
+        label: 'Pics Search Input', path: '/pics-search-input' 
+    },
+    { 
+        label: 'State System', path: '/state-system' 
+    },
+    { 
+        label: 'API App', path: '/api-app' 
+    },
+    { 
+        label: 'Books App', path: '/books-app' 
+    },
 ];
