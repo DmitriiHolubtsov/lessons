@@ -77,4 +77,7 @@ export const links = [
     { 
         label: 'Books App', path: '/books-app' 
     },
+    { 
+        label: 'JS', path: '/js' 
+    },
 ];

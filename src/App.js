@@ -13,6 +13,7 @@ import ApiApp from './lessons/UsingApiSection';
 import Books from './lessons/HandleFormsSection';
 import { Provider } from './lessons/HandleFormsSection/context/books';
 import Sidebar from './components/Sidebar';
+import JS from './lessons/JS';
 
 
 function App() {
@@ -57,6 +58,12 @@ function App() {
           <TaskSeparator taskNumber="7 - Understanding useState, useEffect, useCallback, Fetching"/>
           <Provider>
             <Books />
+          </Provider>
+        </Route>
+        <Route path="/js">
+          <TaskSeparator taskNumber="8 - JS"/>
+          <Provider>
+            <JS />
           </Provider>
         </Route>
       </div>
